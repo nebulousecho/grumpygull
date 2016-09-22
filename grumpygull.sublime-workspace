@@ -1,0 +1,1268 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getURLquery"
+			],
+			[
+				"query",
+				"queryVars"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"hide",
+				"hideEvents"
+			],
+			[
+				"hi",
+				"hideEvents"
+			],
+			[
+				"message",
+				"message_box_container"
+			],
+			[
+				"Source",
+				"SourceSansProLight"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"mod",
+				"displayMode"
+			],
+			[
+				"evt_even",
+				"evt_event_type"
+			],
+			[
+				"types",
+				"typesArray"
+			],
+			[
+				"events_in",
+				"events_index_sidebar"
+			],
+			[
+				"disp",
+				"displayMode"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"events",
+				"events_header"
+			],
+			[
+				"current",
+				"currentMonth"
+			],
+			[
+				"event",
+				"event_entry"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"Klavika",
+				"KlavikaBold"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ch",
+				"chat_series"
+			],
+			[
+				"chat",
+				"chat_url"
+			],
+			[
+				"wu",
+				"wufooFormData"
+			],
+			[
+				"po",
+				"pos:a	position:absolute"
+			],
+			[
+				"w",
+				"wob	word-break"
+			],
+			[
+				"ShareCon",
+				"ShareContainerUpper"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"hover",
+				"hover_state"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"desk",
+				"desktopLogo"
+			],
+			[
+				"mouse",
+				"mouseenter"
+			],
+			[
+				"SourceSansPro",
+				"SourceSansProBold"
+			],
+			[
+				"globa",
+				"globalNav"
+			],
+			[
+				"Klavi",
+				"KlavikaMedium"
+			],
+			[
+				"growco",
+				"growco_playbook"
+			],
+			[
+				"K",
+				"KlavikaBlack"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"backgro",
+				"background-position"
+			],
+			[
+				"inc",
+				"inline-block"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"grid",
+				"grid_square"
+			],
+			[
+				"glo",
+				"globalNav"
+			],
+			[
+				"Klav",
+				"KlavikaBoldCondensed"
+			],
+			[
+				"SourceS",
+				"SourceSansProBold"
+			],
+			[
+				"bor",
+				"border-collapse"
+			],
+			[
+				"dropd",
+				"dropdown_menu"
+			],
+			[
+				"fo",
+				"form_error"
+			],
+			[
+				"for",
+				"formData"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"logo",
+				"logoFilenameArray"
+			],
+			[
+				"pro",
+				"promoFilenameArray"
+			],
+			[
+				"main",
+				"mainNav"
+			],
+			[
+				"g",
+				"globalNav"
+			],
+			[
+				"scro",
+				"scrollToList"
+			],
+			[
+				"company",
+				"company_grid"
+			],
+			[
+				"border-",
+				"border-box"
+			],
+			[
+				"Kl",
+				"KlavikaBold"
+			],
+			[
+				"padding",
+				"paddingAmount"
+			],
+			[
+				"this",
+				"thisWidth"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"arti",
+				"articleList"
+			],
+			[
+				"bord",
+				"border-box"
+			],
+			[
+				"ifc",
+				"ifc_company_logoref"
+			],
+			[
+				"channel",
+				"channel_companies"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"head",
+				"headlineUpdated"
+			],
+			[
+				"headlin",
+				"headlineNumbers"
+			],
+			[
+				"im",
+				"imgPadding"
+			],
+			[
+				"encode",
+				"json_encode"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"webkit-fon",
+				"webkit-font-smoothing"
+			],
+			[
+				"mi",
+				"missingPhoto"
+			],
+			[
+				"select",
+				"selectOldPhoto"
+			],
+			[
+				"las",
+				"lastOldPhoto"
+			],
+			[
+				"port",
+				"portrait"
+			],
+			[
+				"last",
+				"lastOldPhoto"
+			],
+			[
+				"bacgk",
+				"background-color"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"video",
+				"video_box"
+			],
+			[
+				"subheader",
+				"subheader_open"
+			],
+			[
+				"subhead",
+				"subheader_open"
+			],
+			[
+				"group",
+				"group_header"
+			],
+			[
+				"plus",
+				"plus-minus"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"mobile",
+				"mobile-width"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"backgroun",
+				"background-repeat"
+			],
+			[
+				"voting",
+				"voting_panel"
+			],
+			[
+				"backgou",
+				"background-image"
+			],
+			[
+				"image",
+				"imageWidth"
+			],
+			[
+				"medium",
+				"medium-small"
+			],
+			[
+				"memb",
+				"member_only_events"
+			],
+			[
+				"inc_plus",
+				"inc_plus_expanding_pane"
+			],
+			[
+				"cur",
+				"cur:p	cursor:pointer"
+			],
+			[
+				"Kla",
+				"KlavikaLight"
+			],
+			[
+				"column",
+				"column_L"
+			],
+			[
+				"sub",
+				"subFromDist"
+			],
+			[
+				"col",
+				"column_L"
+			],
+			[
+				"Sou",
+				"SourceSansProBold"
+			],
+			[
+				"Sour",
+				"SourceSansProBold"
+			],
+			[
+				"Sourc",
+				"SourceSansProRegular"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"list",
+				"list_headers"
+			],
+			[
+				"more",
+				"moreNum"
+			],
+			[
+				"ti",
+				"timesOnList"
+			],
+			[
+				"cell",
+				"cellspacing	Attr"
+			],
+			[
+				"cel",
+				"cellspacing	Attr"
+			],
+			[
+				"nofi",
+				"notification_form"
+			],
+			[
+				"not",
+				"notification_form"
+			],
+			[
+				"button",
+				"buttons_container"
+			],
+			[
+				"cl",
+				"cl	clear: ${1:both};"
+			],
+			[
+				"time",
+				"times_on_list"
+			],
+			[
+				"filter",
+				"filterController"
+			],
+			[
+				"the",
+				"theFilter"
+			],
+			[
+				"vi",
+				"visibility"
+			],
+			[
+				"billing_",
+				"billing_state"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"email",
+				"emailTest"
+			],
+			[
+				"newP",
+				"newPhone4"
+			],
+			[
+				"bi",
+				"billing_state"
+			],
+			[
+				"nav",
+				"nav_arrows"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1758,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/menu.php",
+			"settings":
+			{
+				"buffer_size": 211,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/slideshow.php",
+			"settings":
+			{
+				"buffer_size": 91,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/includes/slideshow.sass",
+			"settings":
+			{
+				"buffer_size": 269,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/styles.sass",
+			"settings":
+			{
+				"buffer_size": 121,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/includes/core.sass",
+			"settings":
+			{
+				"buffer_size": 87,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/includes/fonts.sass",
+			"settings":
+			{
+				"buffer_size": 212,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Increment Selection"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"king",
+				"King: Number: Number Sequence"
+			],
+			[
+				"num",
+				"King: Number: Number Sequence"
+			],
+			[
+				"Snippet: ",
+				"Snippet: iphone"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"beau",
+				"SassBeautify: Convert from SCSS to current type"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/akelly/Documents/websites/grumpygull.com/css/includes/menu.sass",
+		"/Users/akelly/Documents/websites/grumpygull.com/css/styles.css",
+		"/Users/akelly/Documents/websites/grumpygull.com/index.php",
+		"/Users/akelly/Desktop/cidtest.html",
+		"/Users/akelly/git/www-inc-com/reflex/content_registration/content_registration_system.php",
+		"/Users/akelly/git/www-inc-com/reflex/cidtest.php",
+		"/Users/akelly/git/www-inc-com/reflex/views/sass/_inc5000GlobalNav.scss",
+		"/Users/akelly/git/www-inc-com/reflex/views/sass/_global_navigation.scss",
+		"/Users/akelly/git/www-inc-com/reflex/views/global_navigation.tpl",
+		"/Users/akelly/git/www-inc-com/reflex/hooks.php",
+		"/Users/akelly/git/www-inc-com/reflex/views/sass/_30under30.scss",
+		"/Users/akelly/git/www-inc-com/reflex/views/channel_30under30.tpl",
+		"/Users/akelly/git/www-inc-com/reflex/views/sass/_events.scss",
+		"/Users/akelly/git/www-inc-com/reflex/index.php",
+		"/Users/akelly/Documents/Projects/2016-06-08 — Steelhouse Brandview/steelhouse_email_001.html",
+		"/Users/akelly/git/www-inc-com/reflex/views/eventindex.tpl",
+		"/Users/akelly/git/www-inc-com/reflex/views/events.tpl",
+		"/Users/akelly/Documents/youtube.txt",
+		"/Users/akelly/Documents/Projects/2016-06-15 — Ryder Brandview/ryder_email_003.html",
+		"/Users/akelly/Desktop/triangles.html",
+		"/Users/akelly/Documents/youtube_topkeywords.txt",
+		"/Users/akelly/Desktop/sig.html",
+		"/Users/akelly/Documents/Projects/2016-06-15 — Ryder Brandview/ryder_email_002.html",
+		"/Users/akelly/Documents/Projects/2016-06-15 — Ryder Brandview/ryder_email_001.html",
+		"/Users/akelly/git/www-inc-com/reflex/views/events_minicalendar.tpl",
+		"/Users/akelly/git/www-inc-com/reflex/rest/event_cal_ics.php",
+		"/Users/akelly/Documents/Projects/2016-06-10 — Ryder Infographic/info.html",
+		"/Users/akelly/git/www-inc-com/reflex/views/sass/_globalNav.scss",
+		"/Users/akelly/git/www-inc-com/reflex/views/frame.tpl",
+		"/Users/akelly/Documents/Projects/2016-06-08 — Steelhouse Email/steelhouse_email_001.html",
+		"/Users/akelly/git/www-inc-com/reflex/data/index.php",
+		"/Users/akelly/git/www-inc-com/reflex/views/channel_founders_40.tpl",
+		"/Users/akelly/git/www-inc-com/reflex/views/channelGlobalNav.tpl",
+		"/Users/akelly/Desktop/heather/menus.js",
+		"/Users/akelly/Desktop/heather/styles.scss",
+		"/Users/akelly/Desktop/heather/hnp.html",
+		"/Users/akelly/git/www-inc-com/reflex/data/download.php",
+		"/Users/akelly/Documents/Projects/2015-05-08 — The UPS Store Live Chats 2015/index.html",
+		"/Users/akelly/Desktop/info/code.html",
+		"/Users/akelly/Documents/Projects/2016-05-04 — 30 Under 30 2016/_global_navigation-backup.scss",
+		"/Users/akelly/Documents/Projects/2016-06-02 — Startup Bootcamp 2016/js.js",
+		"/Users/akelly/Documents/Projects/2016-06-02 — Startup Bootcamp 2016/styles.css",
+		"/Users/akelly/Documents/Projects/2016-06-02 — Startup Bootcamp 2016/startupbootcamp2016.html",
+		"/Users/akelly/git/www-inc-com/reflex/download_data.php",
+		"/Users/akelly/git/www-inc-com/reflex/views/channel_coolest_college.tpl",
+		"/Users/akelly/Desktop/brandsplit.html",
+		"/Users/akelly/Desktop/rosters.html",
+		"/Users/akelly/Documents/youtube_topkeywords",
+		"/Users/akelly/git/www-inc-com/reflex/views/wufoo_includes/industrylist.tpl",
+		"/Users/akelly/Downloads/mercedezbenz-contest-2016/index.html",
+		"/Users/akelly/Documents/Projects/2016-05-27 — Mercedez Contest/index.html",
+		"/Users/akelly/git/www-inc-com/reflex/livechat.php",
+		"/Users/akelly/Documents/Projects/2016-05-12 — Cox Business Live Chats/cox_live_chats.html",
+		"/Users/akelly/Documents/Projects/2016-05-12 — Cox Business Live Chats/js.js",
+		"/Users/akelly/Documents/Projects/2016-05-12 — Cox Business Live Chats/styles.css",
+		"/Users/akelly/Desktop/INSERT INTO livechat_login.txt",
+		"/Users/akelly/git/www-inc-com/reflex/views/article.tpl",
+		"/Users/akelly/Desktop/article.css",
+		"/Users/akelly/Desktop/article.scss",
+		"/Users/akelly/Desktop/30under30article.js",
+		"/Users/akelly/git/www-inc-com/reflex/views/inc5000profile.tpl",
+		"/Users/akelly/Downloads/cox-business-growth-academy/index.html",
+		"/Users/akelly/git/www-inc-com/reflex/views/channel.tpl",
+		"/Users/akelly/Desktop/test2.html",
+		"/Users/akelly/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/akelly/Documents/Projects/2016-05-05 — Playbook Data Form/index.html",
+		"/Users/akelly/Downloads/growcoplaybook-registration-form (1)/index.html",
+		"/Users/akelly/Documents/Projects/2016-05-05 — Playbook Data Form/thankyou.html",
+		"/Users/akelly/Downloads/growcoplaybook-registration-form/index.html",
+		"/Users/akelly/git/www-inc-com/reflex/views/frameGrowcoPlaybook.tpl",
+		"/Users/akelly/git/www-inc-com/reflex/views/growco_playbook.tpl",
+		"/Users/akelly/git/www-inc-com/reflex/views/frameSitemap.tpl",
+		"/Users/akelly/Documents/Projects/2016-04-06 — UPS Store Marcus Lemonis Contest/form/lemonis_form.html",
+		"/Users/akelly/Documents/Projects/2016-04-06 — UPS Store Marcus Lemonis Contest/form/lemonis_form.css",
+		"/Users/akelly/Documents/Projects/2016-04-26 — Principal Registration Page/form/principal_form.css",
+		"/Users/akelly/Documents/Projects/2016-04-26 — Principal Registration Page/form/principal_form.html",
+		"/Users/akelly/Documents/Projects/2016-04-26 — Principal Registration Page/form/principal_form.js",
+		"/Users/akelly/Downloads/principal-defining-moments-contest (1)/index.html",
+		"/Users/akelly/Documents/Projects/Principal Brandview Emails/email001/principal_email1_003.html",
+		"/Users/akelly/Desktop/backup.html",
+		"/Users/akelly/git/www-inc-com/reflex/views/sass/screen.scss",
+		"/Users/akelly/git/www-inc-com/reflex/views/channel_not_panelchannel.tpl",
+		"/Users/akelly/Documents/Projects/2016-04-06 — UPS Store Marcus Lemonis Contest/email1/tell_marcus_email1_003.html",
+		"/Users/akelly/Documents/Projects/Principal Brandview Emails/email001/principal_email1_002.html",
+		"/Users/akelly/git/www-inc-com/reflex/views/inc5000application.tpl",
+		"/Users/akelly/git/www-inc-com/reflex/views/sass/_brandview.scss",
+		"/Users/akelly/git/www-inc-com/reflex/views/brandview.tpl",
+		"/Users/akelly/git/www-inc-com/reflex/views/sass/_founders-40.scss",
+		"/Users/akelly/git/www-inc-com/reflex/views/founders40GlobalNav.tpl",
+		"/Users/akelly/git/www-inc-com/reflex/views/sass/_coolest-college.scss",
+		"/Users/akelly/git/www-inc-com/reflex/views/sass/_article.scss",
+		"/Users/akelly/git/www-inc-com/reflex/modules/inc5000list/models/Inc5000list.class.php",
+		"/Users/akelly/git/www-inc-com/reflex/inc/app/Models/Inc5000Company.php",
+		"/Users/akelly/Desktop/test.html",
+		"/Users/akelly/git/www-inc-com/reflex/views/thankyou.tpl",
+		"/Users/akelly/Desktop/rules.css",
+		"/Users/akelly/Desktop/rules.scss",
+		"/Users/akelly/Desktop/rules.html",
+		"/Users/akelly/Documents/Projects/2016-04-06 — UPS Store Marcus Lemonis Contest/email1/tell_marcus_email1_001.html",
+		"/Users/akelly/Documents/Projects/2016-04-15 — Donuts Article Emails/email1/donuts_article_email1_001.html",
+		"/Users/akelly/git/www-inc-com/reflex/views/incsource.tpl",
+		"/Users/akelly/Downloads/ups-store-marcus-lemonis-contest/index.html",
+		"/Users/akelly/git/www-inc-com/reflex/views/wufoo_includes/statelist.tpl",
+		"/Users/akelly/Library/Application Support/Sublime Text 3/Packages/Number King/HELP.md",
+		"/Users/akelly/git/www-inc-com/reflex/views/sass/_founders40GlobalNav.scss",
+		"/Users/akelly/git/www-inc-com/reflex/views/sass/_coolestCollegeGlobalNav.scss",
+		"/Users/akelly/git/www-inc-com/reflex/views/coolestCollegeGlobalNav.tpl",
+		"/Users/akelly/git/www-inc-com/reflex/js/modals/editor.js",
+		"/Users/akelly/git/www-inc-com/reflex/modules/inc5000list/models/Inc5000list_list.class.php",
+		"/Users/akelly/Documents/Projects/2016-04-18 — Brandview Emails/test.html",
+		"/Users/akelly/git/www-inc-com/reflex/js/widgets/global-navigation.js",
+		"/Users/akelly/git/www-inc-com/reflex/js/Inc.js",
+		"/Users/akelly/git/www-inc-com/reflex/js/apps/inc.js",
+		"/Users/akelly/git/www-inc-com/reflex/views/resetpassword2.tpl",
+		"/Users/akelly/git/www-inc-com/reflex/js/controllers/global-navigation.js",
+		"/Users/akelly/git/www-inc-com/reflex/views/sass/_founders-40-embed.scss",
+		"/Users/akelly/Desktop/comcast/images/infographic.html",
+		"/Users/akelly/git/www-inc-com/reflex/views/mostpopularvideo.tpl",
+		"/Users/akelly/git/www-inc-com/reflex/modules/article/models/Article.class.php",
+		"/Users/akelly/git/www-inc-com/reflex/views/embeds/founders-40-grid.tpl",
+		"/Users/akelly/Desktop/stuff.html",
+		"/Users/akelly/git/www-inc-com/reflex/modules/channel/models/Channel.class.php",
+		"/Users/akelly/Documents/Projects/2016-03-30 — T-Mobile Registration/form.html",
+		"/Users/akelly/git/www-inc-com/reflex/js/models/article.js",
+		"/Users/akelly/git/www-inc-com/reflex/rest/index.php",
+		"/Users/akelly/Desktop/founders40embed.html",
+		"/Users/akelly/git/www-inc-com/reflex/js/models/inline-image.js",
+		"/Users/akelly/git/www-inc-com/reflex/rest/sessions.php"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ADD (.+) ",
+			"last_name varchar()",
+			"first_name varchar()",
+			"varchar",
+			"\n",
+			"/post",
+			"_1",
+			" ",
+			"Client1",
+			"Contact ",
+			" id",
+			"id",
+			"div",
+			"s1",
+			"3",
+			"s1",
+			"hidden",
+			"articl",
+			"i",
+			"$(window).width()",
+			"$window",
+			"grid",
+			"10px",
+			"26",
+			"18px",
+			"</strong>",
+			"<strong>",
+			"b>",
+			"<b>",
+			"</b>",
+			"<b",
+			" align=\"left\"",
+			"width=\"650\" ",
+			"media",
+			"$event",
+			"only",
+			"event",
+			".sidebar_menu_item",
+			"<?",
+			"12px",
+			"10px",
+			"<p>",
+			"'",
+			"test",
+			":hover",
+			"Day",
+			"upcoming",
+			"new Date($events[x].evt_starttime)",
+			"images/",
+			"24px",
+			"16px",
+			"http://images.inc.com/steelhouse/email001/",
+			"%>",
+			"<% ",
+			"start",
+			"$event->",
+			"$event",
+			"border-top",
+			"border-bottom",
+			"hidden",
+			"\\.cal",
+			"cal",
+			"grid",
+			".png\" width",
+			"width=\"100%\"",
+			"ryder_outsource_infographic",
+			"<td width=\"100%\"></td>",
+			"grid",
+			"images/",
+			"11px",
+			"12px",
+			"</li>",
+			"level1\">",
+			"growthacademy",
+			".png",
+			"http://",
+			"</td>",
+			"</tr>",
+			"grid",
+			"bert-jacobs",
+			"burtjacobs.jpg",
+			"cob",
+			"inc",
+			"case 'd",
+			"case 'data'",
+			"data",
+			"td",
+			"Field9",
+			"no",
+			"yes",
+			"</div>",
+			"<div class=\"sec1\">",
+			"text-area",
+			"textarea",
+			"globalnav",
+			"',(.+)\\)",
+			"growthacademy",
+			"(^.+)",
+			"'",
+			"right-",
+			"article",
+			"id()",
+			"article",
+			"#thirtyunderthirty_article_grid",
+			"hover",
+			"sharecon",
+			"4",
+			"section#company_grid .panel",
+			"globalNav",
+			"{/foreach",
+			"{foreach",
+			"foreach",
+			"desktop",
+			"video",
+			"#",
+			"Upper",
+			", 'font-size': '23px !important'",
+			".desktopShare",
+			"'width': '30px'",
+			"#ShareContainer",
+			"share",
+			"767",
+			"#vote",
+			"hide",
+			"show",
+			"slide",
+			"tint",
+			"image"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"ADD '$1' ",
+			"','$1')",
+			"(growthacademy,$1),",
+			"\\n",
+			",",
+			"<p>",
+			"<p>$1</p>\\n",
+			"<p>$1</p>",
+			"<div class=\"option\">$1</div>",
+			"",
+			"div class=\"option\"",
+			"class=\"option\"",
+			"",
+			"$1",
+			"",
+			"?",
+			"$1$2$3",
+			"",
+			"$1\\n\\n\\t\\t\\t<div class=\"subcontent\">",
+			"$1\\n\\n\\t\\t<div class=\"subcontent\">",
+			"$1\\n\\n<div class=\"subcontent\">",
+			"<div class=\"subheader\">$1</div>\\n\\n",
+			"<div class=\"subheader\">$1</div>\\n\\t\\t",
+			"<b>$1</b>  ",
+			"",
+			"\\t.inc_5000_app_container $1",
+			".inc_5000_app_container $1",
+			".inc_5000_app_container",
+			"",
+			"<label for=\"$2\"></label>$1",
+			"<div class=\"item\"><input type=\"checkbox\" value=\"$1\" />$1</div>",
+			"",
+			"-",
+			"($1ICM$2 || $1EIC$2)",
+			"$1ICM$2 || $1EIC$2",
+			"\\(.+\\s==\\s\\\"ICM\\\"\\ || .+\\s==\\s\\\"EIC\\\"\\)",
+			"$1\\t",
+			"",
+			"$1",
+			"if (isset($2)) {$1$2;}",
+			"if (isset($2)) {$1$2}"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1758,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								231,
+								231
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "templates/menu.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "templates/slideshow.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 91,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								67,
+								67
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/includes/slideshow.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "css/styles.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "css/includes/core.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								61
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "css/includes/fonts.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9,
+								67
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "grumpygull.sublime-project",
+	"replace":
+	{
+		"height": 84.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}
